@@ -1,8 +1,8 @@
 {
-    "version":  "2.16",
-    "patchUrl":  "",
-    "fullUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.16/Vencom 2.16 Setup.exe",
-    "checksum":  "03ac5df891ac347d64e7bfa32021c100",
-    "changelog":  "Actualizacion v2.16",
-    "mandatory":  true
+    "version":  "2.17",
+    "patchUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.17/vencom_patch_2.16_to_2.17.exe",
+    "fullUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.17/Vencom 2.17 Setup.exe",
+    "checksum":  "e04a9c5a1a157ba84f1378b4d8a4c1b6",
+    "changelog":  "Filtra todas las operaciones por DiaProceso,no permitir eliminar ni editar datos que no estan en el dia de proceso actual",
+    "mandatory":  false
 }
