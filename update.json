@@ -2,7 +2,7 @@
     "version":  "2.18",
     "patchUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.18/vencom_patch_2.17_to_2.18.exe",
     "fullUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.18/Vencom 2.18 Setup.exe",
-    "checksum":  "d1f73939451dfdc7951bc705ddc602df",
-    "changelog":  "Bloqueado CambioPrecio",
+    "checksum":  "0ee6f265485670d10941feada68a54ef",
+    "changelog":  "Fix Guardar corregido",
     "mandatory":  false
 }
