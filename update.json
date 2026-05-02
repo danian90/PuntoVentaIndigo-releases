@@ -1,8 +1,8 @@
 {
-    "version":  "2.18",
-    "patchUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.18/vencom_patch_2.17_to_2.18.exe",
-    "fullUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.18/Vencom 2.18 Setup.exe",
-    "checksum":  "0ee6f265485670d10941feada68a54ef",
-    "changelog":  "Fix Guardar corregido",
+    "version":  "2.19",
+    "patchUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.19/vencom_patch_2.18_to_2.19.exe",
+    "fullUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.19/Vencom 2.19 Setup.exe",
+    "checksum":  "dfcd079ed9ba3abebe793b9a060459f9",
+    "changelog":  "CorregidoFix al Guardar",
     "mandatory":  false
 }
