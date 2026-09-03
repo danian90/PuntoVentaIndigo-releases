@@ -2,7 +2,7 @@
     "version":  "2.22",
     "patchUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.22/vencom_patch_2.21_to_2.22.exe",
     "fullUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.22/Vencom 2.22 Setup.exe",
-    "checksum":  "ac1e9d7a0ba9ddb9513cdbc09cd0f82b",
-    "changelog":  "Agregado Mode Opercion",
+    "checksum":  "1d94d6229ecf70a48ab7c86bc5c34f63",
+    "changelog":  "Modo Operacion Fix",
     "mandatory":  false
 }
