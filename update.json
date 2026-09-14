@@ -1,8 +1,8 @@
 {
-    "version":  "2.23",
-    "patchUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.23/vencom_patch_2.22_to_2.23.exe",
-    "fullUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.23/Vencom 2.23 Setup.exe",
-    "checksum":  "60ccea5432088d393339201f7d7dd075",
-    "changelog":  "Fix Application Users",
+    "version":  "2.24",
+    "patchUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.24/vencom_patch_2.23_to_2.24.exe",
+    "fullUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.24/Vencom 2.24 Setup.exe",
+    "checksum":  "8fcae02f0745bce9f45470fdf76b0253",
+    "changelog":  "Fix en el IPV instalacion limpia",
     "mandatory":  false
 }
