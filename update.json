@@ -1,8 +1,8 @@
 {
-    "version":  "2.24",
-    "patchUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.24/vencom_patch_2.23_to_2.24.exe",
-    "fullUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.24/Vencom 2.24 Setup.exe",
-    "checksum":  "8fcae02f0745bce9f45470fdf76b0253",
-    "changelog":  "Fix en el IPV instalacion limpia",
+    "version":  "2.25",
+    "patchUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.25/vencom_patch_2.24_to_2.25.exe",
+    "fullUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.25/Vencom 2.25 Setup.exe",
+    "checksum":  "c7f12e505579604f2e9d68677cd09f22",
+    "changelog":  "Cierre de dia Global: captura unica de montos, Tipo de Cierre configurable por modo, fixes de reportes Resumen de Inventario y Cierre Diario",
     "mandatory":  false
 }
