@@ -1,8 +1,8 @@
 {
-  "version": "2.25",
-  "patchUrl": "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.25/vencom_patch_2.24_to_2.25.exe",
-  "fullUrl": "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.25/Vencom 2.25 Setup.exe",
-  "checksum": "7d4dccb0a9b19c7e8250f6e17ff4caf9",
-  "changelog": "Cierre Global IPV: TipoCierre en Configuracion; fix inventario resumen",
-  "mandatory": false
+    "version":  "2.26",
+    "patchUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.26/vencom_patch_2.25_to_2.26.exe",
+    "fullUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.26/Vencom 2.26 Setup.exe",
+    "checksum":  "5346c8b6671174d0706b939e1d321179",
+    "changelog":  "Tasa de Cambio Flotante",
+    "mandatory":  false
 }
