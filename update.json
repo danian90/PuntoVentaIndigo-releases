@@ -1,7 +1,7 @@
 {
   "version": "2.27",
   "patchUrl": "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.27/vencom_patch_2.26_to_2.27.exe",
-  "fullUrl": "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.27/Vencom 2.27 Setup.exe",
+  "fullUrl": "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.27/Vencom.2.27.Setup.exe",
   "checksum": "b31f29a7b2f11b8e76cb41c1c5c4caec",
   "checksumSha256": "99f4309618ac0bb12a369c14dc8c28fab21339ad95f3957efc351b4c3af1ae5a",
   "requireSignature": false,
