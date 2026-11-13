@@ -1,8 +1,10 @@
 {
-    "version":  "2.26",
-    "patchUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.26/vencom_patch_2.25_to_2.26.exe",
-    "fullUrl":  "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.26/Vencom 2.26 Setup.exe",
-    "checksum":  "5346c8b6671174d0706b939e1d321179",
-    "changelog":  "Tasa de Cambio Flotante",
-    "mandatory":  false
+  "version": "2.27",
+  "patchUrl": "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.27/vencom_patch_2.26_to_2.27.exe",
+  "fullUrl": "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.27/Vencom 2.27 Setup.exe",
+  "checksum": "b31f29a7b2f11b8e76cb41c1c5c4caec",
+  "checksumSha256": "99f4309618ac0bb12a369c14dc8c28fab21339ad95f3957efc351b4c3af1ae5a",
+  "requireSignature": false,
+  "changelog": "Ventas IPV en 0, stock al borrar movimientos y actualizacion segura",
+  "mandatory": false
 }
