@@ -1,10 +1,10 @@
 {
-  "version": "2.27",
-  "patchUrl": "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.27/vencom_patch_2.26_to_2.27.exe",
-  "fullUrl": "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.27/Vencom.2.27.Setup.exe",
-  "checksum": "b31f29a7b2f11b8e76cb41c1c5c4caec",
-  "checksumSha256": "99f4309618ac0bb12a369c14dc8c28fab21339ad95f3957efc351b4c3af1ae5a",
+  "version": "2.28",
+  "patchUrl": "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.28/vencom_patch_2.27_to_2.28.exe",
+  "fullUrl": "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.28/Vencom.2.28.Setup.exe",
+  "checksum": "d4a8e377e3e984470a1dfab14575748f",
+  "checksumSha256": "8c61edc4e6e9b9cf86f95bfe8e30fe514d2b3588de234b507131a4f87afb9295",
   "requireSignature": false,
-  "changelog": "Ventas IPV en 0, stock al borrar movimientos y actualizacion segura",
+  "changelog": "Monedas: una base y una activa unicas con confirmacion, borrado validado y carteles del tema; logo EISICOM y autoactualizacion robusta",
   "mandatory": false
 }
