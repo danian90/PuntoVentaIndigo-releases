@@ -1,10 +1,10 @@
 {
-  "version": "2.28",
-  "patchUrl": "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.28/vencom_patch_2.27_to_2.28.exe",
-  "fullUrl": "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.28/Vencom.2.28.Setup.exe",
-  "checksum": "d4a8e377e3e984470a1dfab14575748f",
-  "checksumSha256": "8c61edc4e6e9b9cf86f95bfe8e30fe514d2b3588de234b507131a4f87afb9295",
+  "version": "2.29",
+  "patchUrl": "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.29/vencom_patch_2.28_to_2.29.exe",
+  "fullUrl": "https://github.com/danian90/PuntoVentaIndigo-releases/releases/download/v2.29/Vencom.2.29.Setup.exe",
+  "checksum": "1a844012daedf2b4b23cc39c45954136",
+  "checksumSha256": "3f79b246bed8d3cd4b686a9e86b31bb33bf313920af4d2c2272eeb45375c6a06",
   "requireSignature": false,
-  "changelog": "Monedas: una base y una activa unicas con confirmacion, borrado validado y carteles del tema; logo EISICOM y autoactualizacion robusta",
+  "changelog": "Cambio de Precio centralizado por producto y almacén; historial de costo/venta de solo lectura y retiro de las acciones por almacén.",
   "mandatory": false
 }
